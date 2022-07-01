@@ -1,0 +1,2 @@
+rootProject.name = "Post Office Sample App"
+include ':app'

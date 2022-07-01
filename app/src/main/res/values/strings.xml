@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Post Office App Sample</string>
+    <string name="dashboard">Post Offices</string>
+    <string name="view">Display</string>
+    <string name="notifications">Notification</string>
+    <string name="menu">More Menu</string>
+    <string name="fab">FAB</string>
+    <string name="logout">Logout</string>
+</resources>
